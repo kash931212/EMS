@@ -1,2 +1,1 @@
-# EMS
-A website for Election Management System
+#A Election Management Website Called ELECTION
